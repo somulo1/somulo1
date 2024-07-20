@@ -1,9 +1,7 @@
-# Welcome to My GitHub Profile! 👨‍💻
-
 <a href="https://github.com/FredMunene">
 <img src="https://github-readme-stats.vercel.app/api?username=somulo1&show_icons=true&count_private=truetheme=dark#gh-dark-mode-only" alt="somulo's GitHub stats"/>
 </a>
-
+# Welcome to My GitHub Profile! 👨‍💻
 Hello! I'm `SAMUEL OKOTH OMULO`, a software developer and undergraduate student specializing in Computer Security and Forensics. I have a diverse skill set and interests ranging from programming in various languages to web design and cybersecurity.
 ## About Me
 
