@@ -38,23 +38,23 @@ Open Source Contributions
   <a href="https://github.com/somulo1" target="_blank" rel="noreferrer" style="margin-right: 10px;">
     <img src="https://github.com/somulo1/profileme-dev/blob/main/public/icons/socials/github.svg" width="36" height="36" alt="Github"/>
   </a>
-   
+   <br>
   <a href="https://twitter.com/@jnr_omulo" target="_blank" rel="noreferrer" style="margin-right: 10px;">
     <img src="https://github.com/somulo1/profileme-dev/blob/main/public/icons/socials/twitter.svg" width="36" height="36" alt="Twitter"/>
   </a>
-  
+  <br>
   <a href="www.linkedin.com/in/samuel-omulo-634694261" target="_blank" rel="noreferrer" style="margin-right: 10px;">
     <img src="https://github.com/somulo1/profileme-dev/blob/main/public/icons/socials/linkedin.svg" width="36" height="36" alt="LinkedIn"/>
   </a>
-  
+  <br>
   <a href="https://medium.com/@jnr_omulo" target="_blank" rel="noreferrer" style="margin-right: 10px;">
     <img src="https://github.com/somulo1/profileme-dev/blob/main/public/icons/socials/medium.svg" width="36" height="36" alt="Medium"/>
   </a>
-  
+  <br>
   <a href="https://medium.com/@jnr_omulo" target="_blank" rel="noreferrer">
     <img src="https://github.com/somulo1/profileme-dev/blob/main/public/icons/socials/instagram.svg" width="36" height="36" alt="Instagram"/>
   </a>
-  
+  <br>
    <a href="https://Gmail.com/"mcomulosammy37@gmail.comtarget="_blank" rel="noreferrer">
     <img src="https://github.com/somulo1/profileme-dev/blob/main/public/icons/socials/instagram.svg" width="36" height="36" alt="Instagram"/>
   </a>
