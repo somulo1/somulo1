@@ -1,4 +1,4 @@
-<a href="https://github.com/FredMunene">
+<a href="https://github.com/somulo1">
 <img src="https://github-readme-stats.vercel.app/api?username=somulo1&show_icons=true&count_private=truetheme=dark#gh-dark-mode-only" alt="somulo's GitHub stats"/>
 </a>
 
@@ -43,7 +43,7 @@ Open Source Contributions
     <img src="https://github.com/somulo1/profileme-dev/blob/main/public/icons/socials/twitter.svg" width="36" height="36" alt="Twitter"/>
   </a>
   <br>
-  <a href="www.linkedin.com/in/SAMWEL OKOTH OMULO" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+  <a href="https://ke.linkedin.com/in/SAMUELOKOTHOMULO" target="_blank" rel="noreferrer" style="margin-right: 10px;">
     <img src="https://github.com/somulo1/profileme-dev/blob/main/public/icons/socials/linkedin.svg" width="36" height="36" alt="LinkedIn"/>
   </a>
   <br>
