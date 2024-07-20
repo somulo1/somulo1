@@ -43,7 +43,7 @@ Open Source Contributions
     <img src="https://github.com/somulo1/profileme-dev/blob/main/public/icons/socials/twitter.svg" width="36" height="36" alt="Twitter"/>
   </a>
   <br>
-  <a href="www.linkedin.com/in/samuel-omulo-634694261" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+  <a href="www.linkedin.com/in/SAMWEL OKOTH OMULO" target="_blank" rel="noreferrer" style="margin-right: 10px;">
     <img src="https://github.com/somulo1/profileme-dev/blob/main/public/icons/socials/linkedin.svg" width="36" height="36" alt="LinkedIn"/>
   </a>
   <br>
@@ -55,9 +55,7 @@ Open Source Contributions
     <img src="https://github.com/somulo1/profileme-dev/blob/main/public/icons/socials/instagram.svg" width="36" height="36" alt="Instagram"/>
   </a>
   <br>
-   <a href="https://Gmail.com/"mcomulosammy37@gmail.comtarget="_blank" rel="noreferrer">
-    <img src="https://github.com/somulo1/profileme-dev/blob/main/public/icons/socials/instagram.svg" width="36" height="36" alt="Instagram"/>
-  </a>
+
 </p>
 
 ## Portfolio
