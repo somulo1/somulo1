@@ -1,46 +1,44 @@
-## Hi there 👋
+# Welcome to My GitHub Profile! 👨‍💻
 
-GitHub Account
+<a href="https://github.com/FredMunene">
+<img src="https://github-readme-stats.vercel.app/api?username=somulo1&show_icons=true&count_private=truetheme=dark#gh-dark-mode-only" alt="somulo's GitHub stats"/>
+</a>
 
-Welcome to my GitHub profile! 👋
-About Me
+Hello! I'm `SAMUEL OKOTH OMULO`, a software developer and undergraduate student specializing in Computer Security and Forensics. I have a diverse skill set and interests ranging from programming in various languages to web design and cybersecurity.
+## About Me
 
-Introduce yourself briefly. Mention your interests, expertise, or any other relevant information about yourself.
-Repositories
-Project 1
+I am currently pursuing a degree in Computer Security and Forensics, where I have gained expertise in digital forensics, cybersecurity practices, and networking concepts. My passion lies in developing robust software solutions and contributing to open-source projects.
+## Skills
 
-    Description: Brief description of the project.
-    Link: Project 1 Repository
+   1.  Programming Languages: C++, Go, Python, Java, Rust
+   2. Web Technologies: HTML, CSS, JavaScript, React (or mention specific frameworks/libraries)
+   3. Cybersecurity: Digital forensics, Network security, Ethical hacking
+ 
 
-Project 2
+## Projects
+Open Source Contributions
 
-    Description: Brief description of the project.
-    Link: Project 2 Repository
+    Project 1
+        Description: Brief description of your contribution.
+        Link: Project 1 Repository
 
-Project 3
+    Project 2
+        Description: Brief description of your contribution.
+        Link: Project 2 Repository
 
-    Description: Brief description of the project.
-    Link: Project 3 Repository
+## Personal Projects
 
-Contributions
+    Project 3
+        Description: Brief description of the project showcasing your skills.
+        Link: Project 3 Repository
 
-Mention any notable contributions you've made to other repositories or open-source projects.
+## Contact Me
 
-    Project Name: Description of your contribution. Link to Contribution
+    Email: your.mcomulosammy37@gmail.com
+    LinkedIn: www.linkedin.com/in/samuel-omulo-634694261
+    Twitter: @jnr_omulo
 
-Contact Me
+Portfolio
 
-    Email: your.email@example.com
-    LinkedIn: Your LinkedIn Profile
-    Twitter: @your_twitter_handle
-
-Other Links
-
-    Personal Website: Your Website
-    Blog: Your Blog
-
-License
-
-Specify the license under which your repositories are typically distributed.
-
-This GitHub profile and its repositories are generally licensed under the [License Name] License - see the LICENSE files in each repository for details.
+Explore more of my work and projects on my personal website.
+## License
