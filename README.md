@@ -43,7 +43,7 @@ Open Source Contributions
     <img src="https://github.com/somulo1/profileme-dev/blob/main/public/icons/socials/twitter.svg" width="36" height="36" alt="Twitter"/>
   </a>
   <br>
-  <a href="www.linkedin.com/in/samuel-omulo" target="_blank" rel="noreferrer" style="margin-right: 10px;">
+  <a href="www.linkedin.com/in/samuel-omulo-634694261 target="_blank" rel="noreferrer" style="margin-right: 10px;">
     <img src="https://github.com/somulo1/profileme-dev/blob/main/public/icons/socials/linkedin.svg" width="36" height="36" alt="LinkedIn"/>
   </a>
   <br>
