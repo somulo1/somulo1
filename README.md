@@ -43,7 +43,8 @@ Explore more of my work and projects on my <a href="https://somulo1.github.io">w
 
 <!-- Proudly created with GPRM (https://gprm.itsvg.in/) -->
 
-🔭 this page carries most of my problems
+🔭 this page carries most of my projects
+
 
 ## Projects
 Open Source Contributions
