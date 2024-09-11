@@ -16,11 +16,12 @@ Explore more of my work and projects on my <a href="https://somulo1.github.io">w
    3. Cybersecurity: Digital forensics, Network security, Ethical hacking
 ## 📫 How to reach me:
 
-1. [![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/somulo1) 
-2. [![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)](www.linkedin.com/in/samuel-omulo-634694261) 
-3. [![Twitter](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg)](https://twitter.com/@jnr_omulo) 
-4. [![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg)](https://instagram.com/your-instagram-handle) 
-5. [![Facebook](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg)](https://facebook.com/omulojnr)
+1. [![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/somulo1){:style="width: 20px; height: 20px;"}
+2. [![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)](https://www.linkedin.com/in/samuel-omulo-634694261){:style="width: 20px; height: 20px;"}
+3. [![Twitter](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg)](https://twitter.com/@jnr_omulo){:style="width: 20px; height: 20px;"}
+4. [![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg)](https://instagram.com/your-instagram-handle){:style="width: 20px; height: 20px;"}
+5. [![Facebook](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg)](https://facebook.com/omulojnr){:style="width: 20px; height: 20px;"}
+
 
 ## 🛠️ Skills:
 
