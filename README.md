@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👨‍💻
 Hello! I'm `SAMUEL OKOTH OMULO`
-/*, a software developer and undergraduate student specializing in Computer Security and Forensics. I have a diverse skill set and interests ranging from programming in various languages to web design ,software developemnt and cybersecurity.*/
+
 ## About Me
 
 I am currently working at <a href="https://learn.zone01kisumu.ke">Zone01 Kisumu</a> as an Apprentice software develper. I am also an undergraduate pursuing a degree in Computer Security and Forensics, where I have gained expertise in digital forensics, cybersecurity practices, and networking concepts. My passion lies in developing robust software solutions and contributing to open-source projects.
