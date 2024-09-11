@@ -15,17 +15,11 @@ Explore more of my work and projects on my <a href="https://somulo1.github.io">w
    2. Web Technologies: HTML, CSS, JavaScript, React (or mention specific frameworks/libraries)
    3. Cybersecurity: Digital forensics, Network security, Ethical hacking
 ## 📫 How to reach me:
-
-1. [![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/somulo1)
-   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" width="2" height="3"/>
-2. [![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)](https://www.linkedin.com/in/samuel-omulo-634694261)
-   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" width="2" height="3"/>
-3. [![Twitter](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg)](https://twitter.com/@jnr_omulo)
-   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" width="2" height="3"/>
-4. [![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg)](https://instagram.com/your-instagram-handle)
-   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" width="2" height="3"/>
-5. [![Facebook](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg)](https://facebook.com/omulojnr)
-   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" width="2" height="3"/>
+1. [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white&labelColor=000000)](https://github.com/somulo1)
+2. [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-omulo-634694261)
+3. [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](https://twitter.com/@jnr_omulo)
+4. [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://instagram.com/your-instagram-handle)
+5. [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white)](https://facebook.com/omulojnr)
 
 
 ## 🛠️ Skills:
