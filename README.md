@@ -59,6 +59,6 @@ Open Source Contributions
 </p>
 
 ## Portfolio
-
+<a href="https://somulo1.github.io">My portfolio</a>
 Explore more of my work and projects on my personal website.
 ## License
