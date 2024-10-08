@@ -11,7 +11,7 @@ Explore more of my work and projects on my <a href="https://somulo1.github.io">w
 
 ## Skills
 
-   1.  Programming Languages: C++, Go, Java,js.
+   1.  Programming Languages: C++, Go,js.
    2. Web Technologies: HTML, CSS, JavaScript, React .
    3. Cybersecurity: Digital forensics, Network security, Ethical hacking
 ## 📫 How to reach me:
@@ -25,7 +25,7 @@ Explore more of my work and projects on my <a href="https://somulo1.github.io">w
 ## 🛠️ Skills:
 
 - **Languages**: HTML, CSS, Go
-- **Tech Stack**: C, Go, C++, JavaScript,js
+- **Tech Stack**: C, Go, C++, JavaScript
 
 ## 📊 GitHub Stats:
 
