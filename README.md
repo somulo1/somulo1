@@ -25,22 +25,22 @@ Explore more of my work and projects on my <a href="https://somulo1.github.io/sa
 - 🔹 **Programming**  
   Proficient in **Go**, **C**, **C++**, **JavaScript**, **HTML**, and **CSS**
 
-- 🔹 **Software Development**  
+- 🔹 **Software development**  
   Experienced in building robust, secure applications with a focus on performance and maintainability
 
-- 🔹 **Systems Programming**  
+- 🔹 **Systems programming**  
   Skilled in low-level development, memory management, and concurrent programming
 
-- 🔹 **Web Development**  
+- 🔹 **Web development**  
   Capable of creating responsive frontends and scalable backend systems
 
-- 🔹 **Version Control**  
+- 🔹 **Version control**  
   Proficient with **Git** for effective source code management and team collaboration
 
-- 🔹 **Problem Solving**  
+- 🔹 **Problem solving**  
   Strong analytical thinking and debugging abilities focused on clean, efficient solutions
 
-- 🔹 **Security Awareness**  
+- 🔹 **Security awareness**  
   Knowledgeable in cybersecurity best practices, digital forensics, and secure coding
 
 - 🔹 **Collaboration**  
