@@ -33,19 +33,10 @@ Explore more of my work and projects on my <a href="https://somulo1.github.io">w
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=somulo1&theme=synthwave&hide_border=true)<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=somulo1&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-![Profile Views](https://visitcount.itsvg.in/api?id=somulo1&icon=0&color=0)
-
-<!-- Proudly created with GPRM (https://gprm.itsvg.in/) -->
-
-🔭 this page carries most of my projects
-
-
 ## Projects
 Open Source Contributions
 
 ## Personal Projects
-
----
 
 
 ## GitHub:
