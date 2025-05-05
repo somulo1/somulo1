@@ -7,7 +7,7 @@ I'm an apprentice software developer at <a href="https://learn.zone01kisumu.ke">
 
 ## Portfolio
 
-Explore more of my work and projects on my <a href="https://somulo1.github.io">website</a>
+Explore more of my work and projects on my <a href="https://somulo1.github.io/sam/">website</a>
 
 ## Skills
 
