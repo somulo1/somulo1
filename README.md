@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile! 👨‍💻
+# Welcome to my github profile! 👨‍💻
 Hello! I'm `SAMUEL OKOTH OMULO`
 
 ## About Me
