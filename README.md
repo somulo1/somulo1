@@ -9,17 +9,6 @@ I'm an apprentice software developer at <a href="https://learn.zone01kisumu.ke">
 
 Explore more of my work and projects on my <a href="https://somulo1.github.io/sam/">website</a>
 
-## Skills
-
-   1.  Programming languages: C++, Go,js.
-   2. Web technologies: HTML, CSS, JavaScript, React, jango .
-   3. Cybersecurity: Digital forensics, Network security, Ethical hacking
-## 📫 How to reach me:
-1. [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white&labelColor=000000)](https://github.com/somulo1)
-2. [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-omulo-634694261)
-3. [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](https://twitter.com/@jnr_omulo)
-4. [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://instagram.com/your-instagram-handle)
-5. [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white)](https://facebook.com/omulojnr)
 ## 🛠️ Skills
 
 - 🔹 **Programming**  
@@ -45,6 +34,14 @@ Explore more of my work and projects on my <a href="https://somulo1.github.io/sa
 
 - 🔹 **Collaboration**  
   Comfortable working in teams and contributing to open-source projects
+
+## 📫 How to reach me:
+1. [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white&labelColor=000000)](https://github.com/somulo1)
+2. [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-omulo-634694261)
+3. [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](https://twitter.com/@jnr_omulo)
+4. [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://instagram.com/your-instagram-handle)
+5. [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white)](https://facebook.com/omulojnr)
+6. 
 
 
 ## 📊 GitHub Stats:
