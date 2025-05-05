@@ -20,12 +20,32 @@ Explore more of my work and projects on my <a href="https://somulo1.github.io/sa
 3. [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](https://twitter.com/@jnr_omulo)
 4. [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://instagram.com/your-instagram-handle)
 5. [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white)](https://facebook.com/omulojnr)
+## 🛠️ Skills
 
+- 🔹 **Programming**  
+  Proficient in **Go**, **C**, **C++**, **JavaScript**, **HTML**, and **CSS**
 
-## 🛠️ Skills:
+- 🔹 **Software Development**  
+  Experienced in building robust, secure applications with a focus on performance and maintainability
 
-- **Languages**: HTML, CSS, Go
-- **Tech Stack**: C, Go, C++, JavaScript
+- 🔹 **Systems Programming**  
+  Skilled in low-level development, memory management, and concurrent programming
+
+- 🔹 **Web Development**  
+  Capable of creating responsive frontends and scalable backend systems
+
+- 🔹 **Version Control**  
+  Proficient with **Git** for effective source code management and team collaboration
+
+- 🔹 **Problem Solving**  
+  Strong analytical thinking and debugging abilities focused on clean, efficient solutions
+
+- 🔹 **Security Awareness**  
+  Knowledgeable in cybersecurity best practices, digital forensics, and secure coding
+
+- 🔹 **Collaboration**  
+  Comfortable working in teams and contributing to open-source projects
+
 
 ## 📊 GitHub Stats:
 
@@ -34,11 +54,4 @@ Explore more of my work and projects on my <a href="https://somulo1.github.io/sa
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=somulo1&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## Projects
-Open Source Contributions
-
-## Personal Projects
-
-
-## GitHub:
-
-[Somulo1 on GitHub](https://github.com/somulo1) 
+Explore my open-source contributions and personal projects in the public repositories below. I'm always open to collaboration—feel free to reach out if you're interested in working together on future projects.
