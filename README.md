@@ -3,7 +3,7 @@ Hello! I'm `SAMUEL OKOTH OMULO`
 
 ## About me
 
-I am currently working at <a href="https://learn.zone01kisumu.ke">Zone01 Kisumu</a> as an Apprentice software develper. I am also an undergraduate pursuing a degree in Computer Security and Forensics, where I have gained expertise in digital forensics, cybersecurity practices, and networking concepts. My passion lies in developing robust software solutions and contributing to open-source projects.
+I'm an apprentice software developer at <a href="https://learn.zone01kisumu.ke">Zone01 Kisumu</a>, with a degree in Computer Security and Forensics. I specialize in building secure, reliable software with a solid foundation in cybersecurity, digital forensics, and networking. I’m passionate about solving real-world problems through code, contributing to open-source projects, and continuously growing as a developer. I'm actively seeking opportunities to collaborate, learn, and build impactful solutions that matter.
 
 ## Portfolio
 
