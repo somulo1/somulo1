@@ -3,7 +3,7 @@ Hello! I'm `SAMUEL OKOTH OMULO`
 
 ## About me
 
-I'm a Fullstack Developer at <a href="https://learn.zone01kisumu.ke">Zone01 Kisumu</a>, with a degree in Computer Security and Forensics. I specialize in building secure, reliable software with a solid foundation in cybersecurity, digital forensics, and networking. I’m passionate about solving real-world problems through code, contributing to open-source projects, and continuously growing as a developer. I'm actively seeking opportunities to collaborate, learn, and build impactful solutions that matter.
+I'm a Fullstack Developer and IT Specialist, with a degree in Computer Security and Forensics. I specialize in building secure, reliable software with a solid foundation in cybersecurity, digital forensics, and networking. I’m passionate about solving real-world problems through code, contributing to open-source projects, and continuously growing as a developer. I'm actively seeking opportunities to collaborate, learn, and build impactful solutions that matter.
 
 ## Portfolio
 
